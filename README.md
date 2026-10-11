@@ -1,4 +1,4 @@
-# 🧱 Blocks Game
+# 🧱 Blocks Blusters
 
 A Tetris-style puzzle game built in Python with Pygame. Stack falling pieces, clear full rows, and survive as the speed increases.
 
